@@ -2,7 +2,7 @@
 
 <img height="120" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo"/>
 
-# Enterprise-Grade Playwright Python Architecture
+#（**Allure**） Enterprise-Grade Playwright Python Architecture
 ### The Ultimate Boilerplate for Scalable, Robust, and Modern UI Automation
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NirTal2?style=social)](https://twitter.com/NirTal2)
